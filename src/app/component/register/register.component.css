@@ -32,3 +32,6 @@ p span{
     font-size: medium; 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.hidden {
+    display: none;
+}

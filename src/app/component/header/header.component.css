@@ -18,4 +18,9 @@ a.nav-link {
 a:hover{
   background-color: rgb(255, 187, 187);
 }
-
+.hidden .container .col-8 form {
+  display: none !important;
+}
+.hidden {
+  display: none !important;
+}

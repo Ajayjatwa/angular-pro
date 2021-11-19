@@ -136,4 +136,10 @@ i.fa.fa-heart {
         top: 8px !important;
         left: 16% !important;
     }
+    .top-left.col-4 {
+        display: none;
+    }
+    .hidden {
+        display: block !important;
+    }
   }
